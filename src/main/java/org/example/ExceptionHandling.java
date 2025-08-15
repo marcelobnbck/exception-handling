@@ -7,7 +7,7 @@ import java.io.IOException;
 public class ExceptionHandling {
 
     public static void main(String[] args) {
-        String filePath = "org/example/numbers.txt"; // Example file path
+        String filePath = "numbers.txt"; // Example file path
 
         try {
             int total = sumNumbersFromFile(filePath);
