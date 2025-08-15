@@ -36,6 +36,7 @@ Reading numbers from a file, parsing them, and calculating their sum — while h
 30
 abc <-- Will cause a NumberFormatException
 40
+50
 ```
 
 ## Example Output
