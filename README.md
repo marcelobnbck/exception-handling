@@ -34,7 +34,7 @@ Reading numbers from a file, parsing them, and calculating their sum — while h
 10
 20
 30
-abc <-- Will cause a NumberFormatException
+abc <-- Will cause NumberFormatException
 40
 50
 ```
